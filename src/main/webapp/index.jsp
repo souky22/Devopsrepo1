@@ -194,7 +194,7 @@
     <div class="testbox">
       <form action="/">
         <div class="banner">
-          <h1>DevOps Job Application Form</h1>
+          <h1>DevOps Application Form</h1>
         </div>
         <div align="left">
         <p class="top-info"><b>Thank you for your interest in working with us. <br/> Please check below for available job opportunities that meet your criteria and send your application by filling out the Job Application Form.</b></p>
